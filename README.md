@@ -32,11 +32,11 @@ pip install -r requirements.txt
 - ### Для создания `allure` отчета:
   Запустить следующую команду
     ```python
-        pytest --alluredir=results
+    pytest --alluredir=results
     ```
 - ### Для просмотра `allure` отчета:
   Запустить следующую команду
 
     ```python
-        allure serve results
+    allure serve results
     ```
